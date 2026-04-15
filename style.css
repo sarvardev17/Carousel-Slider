@@ -60,3 +60,15 @@ body {
 .buttons button:hover {
   background-color: #333;
 }
+
+#show-number{
+  width: 30px;
+  color: white;
+  height: 50px;
+  background-color: blue;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
