@@ -15,6 +15,8 @@ body {
 
 .carousel {
   text-align: center;
+ 
+  justify-content: center;
 }
 
 .carousel img {
@@ -72,3 +74,8 @@ body {
   align-items: center;
   margin: 0 auto;
 }
+
+#text{
+  color: red;
+}
+
